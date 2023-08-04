@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="401.17673"
+   height="106.78855"
+   viewBox="0 0 401.17672 106.78856"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="myflairs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs47">
+    <rect
+       x="90.146179"
+       y="4.160593"
+       width="147.00761"
+       height="69.689934"
+       id="rect261" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="Group_917"
+     data-name="Group 917"
+     transform="translate(89.225361,27.060474)">
+    <g
+       id="g695"
+       transform="translate(-12.438084,-0.43084349)">
+      <path
+         id="Path_80"
+         data-name="Path 80"
+         d="m -76.787274,-26.629631 v 95.443457 l 15.249915,0.07178 3.955712,11.273322 h 2.667593 V -4.0816819 l 74.23583,-0.215339 V -26.629631 Z"
+         fill="#d13b27"
+         fill-rule="evenodd"
+         style="stroke-width:1.30508" />
+      <path
+         id="Path_81"
+         data-name="Path 81"
+         d="M -35.025868,29.087046 H -9.1760545 V 48.985673 H -35.025868 V 68.885605 H 18.662708 V 15.157877 h -53.688576 z"
+         fill="#373636"
+         style="stroke-width:1.30508" />
+    </g>
+    <path
+       id="Path_119"
+       data-name="Path 119"
+       d="m 194.111,30.946797 v -6.293 h 2.938 v 0.4 h -2.5 v 2.522 h 2.327 v 0.4 h -2.327 v 2.58 h 2.653 v 0.4 z"
+       fill="#373636" />
+    <text
+       xml:space="preserve"
+       transform="matrix(9.0468945,0,0,9.0468945,-797.03955,-81.307019)"
+       id="text259"
+       style="font-size:12px;font-family:'LIBRARY 3 AM';-inkscape-font-specification:'LIBRARY 3 AM, Normal';white-space:pre;shape-inside:url(#rect261);fill:#d13b27;fill-opacity:1"><tspan
+         x="90.146484"
+         y="16.392097"
+         id="tspan1861">AI<tspan
+   style="fill:#292929"
+   id="tspan1859">MY</tspan></tspan></text>
+  </g>
+</svg>

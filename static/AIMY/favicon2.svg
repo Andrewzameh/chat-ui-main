@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.3517027mm"
+   height="1.4967976mm"
+   viewBox="0 0 5.3517027 1.4967976"
+   version="1.1"
+   id="svg4363"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4360">
+    <rect
+       x="90.146179"
+       y="4.160593"
+       width="147.00761"
+       height="69.689934"
+       id="rect261-9-6" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(154.80486,-107.30551)">
+    <g
+       id="Group_917-7-4"
+       data-name="Group 917"
+       transform="matrix(0.00720924,0,0,0.00720924,-151.51254,108.45016)">
+      <path
+         id="Path_119-6-7"
+         data-name="Path 119"
+         d="m 87.582946,-13.151644 v -11.981892 h 5.593962 v 0.761602 H 88.4169 v 4.801896 h 4.430615 v 0.761601 H 88.4169 v 4.912328 h 5.05132 v 0.761602 z"
+         fill="#373636"
+         style="display:none;stroke-width:1.904" />
+      <a
+         id="a1980-7-1"
+         transform="translate(-26.292687,1.6417232)">
+        <text
+           xml:space="preserve"
+           transform="matrix(23.099923,0,0,23.099923,-2519.6948,-331.45152)"
+           id="text259-2-5"
+           style="font-size:12px;font-family:'LIBRARY 3 AM';-inkscape-font-specification:'LIBRARY 3 AM, Normal';white-space:pre;shape-inside:url(#rect261-9-6);display:inline;fill:#d13b27;fill-opacity:1"><tspan
+             x="90.146484"
+             y="16.392097"
+             id="tspan6674">AI<tspan
+   style="fill:#2d2d2d"
+   id="tspan6672">MY</tspan></tspan></text>
+      </a>
+    </g>
+  </g>
+</svg>
